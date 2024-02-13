@@ -8,3 +8,4 @@
 #   #minecraft:load
 # @internal
 
+function genesub_core:physics/
