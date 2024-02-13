@@ -8,4 +8,4 @@
 #   #minecraft:load
 # @internal
 
-function genesub_core:physics/
+execute as @e[tag=genesub.container] at @s run function genesub_core:physics/
