@@ -58,4 +58,3 @@ scoreboard players set #10000 genesub.const 10000
 
 #declare score_holder #1000000
 scoreboard players set #1000000 genesub.const 1000000
-
